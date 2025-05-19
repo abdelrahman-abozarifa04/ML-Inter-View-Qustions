@@ -1,4 +1,4 @@
-# ML-Inter-View-Qustions
+# ML Interview Questions
 
 ---
 
@@ -348,12 +348,3 @@ Controls **step size**:
 * Transform: log, sqrt
 * Use tree models which are robust
 
----
-
-Would you like these exported as:
-
-1. 📄 PDF file
-2. 🃏 Flashcards (Anki-ready format or printable)
-3. 🎙️ Mock Interview quiz session
-
-Let me know and I’ll generate it for you right away!
